@@ -1,0 +1,320 @@
+timestamp_utc,participant,stimulus_type,font_size,motion,input_mode,frame_motion,shaking,text_color_mode,background_mode,min_delay_sec,max_delay_sec,repetitions,trial,stimulus,reaction_time_ms2025-11-18T13:50:38.045281,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,1,I,10109.872025-11-18T13:52:45.635820,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,1,L,3011.622025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,1,L,1708.58
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,2,D,2926.57
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,3,W,1380.78
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,4,G,2470.49
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,5,B,1003.21
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,6,V,896.45
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,7,K,1047.06
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,8,E,1004.41
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,9,J,994.25
+2025-11-18T13:54:00.168609,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,10,U,964.36
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,1,C,2196.91
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,2,H,3614.78
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,3,O,1060.28
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,4,C,1269.98
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,5,V,912.09
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,6,A,1029.73
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,7,B,2488.02
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,8,S,1264.7
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,9,V,911.96
+2025-11-18T13:56:29.755611,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,3.0000000000000027,10,10,P,1669.63
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,1,P,2342.63
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,2,F,2231.92
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,3,P,1063.95
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,4,J,925.65
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,5,Y,1890.88
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,6,O,1090.63
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,7,O,1015.17
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,8,C,1188.13
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,9,U,969.12
+2025-11-18T13:58:12.290096,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,10,I,984.4
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,1,G,2194.28
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,2,S,2026.93
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,3,Q,1304.58
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,4,Y,1444.1
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,5,W,1106.01
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,6,J,872.38
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,7,A,917.34
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,8,H,1202.5
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,9,W,1031.12
+2025-11-18T14:01:15.918178,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,6.999999999999993,10,10,C,992.21
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,1,J,1983.84
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,2,F,1618.52
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,3,Q,1207.82
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,4,B,1151.71
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,5,B,1316.2
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,6,Z,994.39
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,7,R,1233.97
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,8,N,1068.47
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,9,Q,1353.66
+2025-11-18T14:02:52.157844,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,2.000000000000001,6.999999999999993,10,10,R,1216.96
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,1,A,1902.78
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,2,J,1655.34
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,3,G,1244.92
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,4,H,1017.16
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,5,B,963.37
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,6,X,1028.64
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,7,M,1072.76
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,8,S,1114.1
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,9,H,1043.9
+2025-11-18T14:04:30.277405,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,10,Z,1116.07
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,1,H,1953.97
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,2,U,1471.06
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,3,T,984.04
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,4,W,1240.49
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,5,H,1115.39
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,6,C,925.73
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,7,I,900.35
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,8,Y,1121.59
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,9,L,1143.95
+2025-11-18T14:06:03.376511,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,10,Q,1176.6
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,1,G,1991.42
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,2,F,1524.28
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,3,V,1125.53
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,4,Q,1187.44
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,5,F,1156.34
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,6,I,1007.87
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,7,P,1211.68
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,8,C,1358.65
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,9,I,951.26
+2025-11-18T14:07:42.370094,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,10,Q,1047.43
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,1,Y,2037.38
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,2,A,2097.62
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,3,C,1244.45
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,4,Y,1359.64
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,5,M,979.53
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,6,H,970.01
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,7,F,1027.44
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,8,L,1027.85
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,9,Y,998.44
+2025-11-18T14:09:02.655717,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,10,Q,1065.67
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,1,D,1783.94
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,2,Z,1321.96
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,3,F,978.84
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,4,E,873.35
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,5,R,819.82
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,6,H,903.83
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,7,F,901.22
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,8,Z,810.5
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,9,P,931.94
+2025-11-18T14:10:24.482440,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,10,Y,1015.75
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,1,F,1788.11
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,2,B,1698.62
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,3,C,807.59
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,4,A,929.98
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,5,H,998.57
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,6,A,992.21
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,7,A,900.72
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,8,N,1176.48
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,9,K,1036.71
+2025-11-18T14:11:51.015953,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,6.999999999999993,10,10,I,1277.99
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,1,C,1718.58
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,2,N,1671.34
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,3,S,961.84
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,4,V,1066.66
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,5,N,1012.49
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,6,R,1093.49
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,7,H,1003.04
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,8,D,980.08
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,9,X,4610.23
+2025-11-18T14:13:08.021884,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,3.0000000000000027,10,10,N,3489.42
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,1,C,1751.29
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,2,U,1427.16
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,3,O,1026.44
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,4,R,969.76
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,5,D,1100.52
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,6,H,1063.86
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,7,D,1042.69
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,8,C,899.83
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,9,R,1007.38
+2025-11-18T14:14:48.417346,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,6.999999999999993,10,10,B,910.1
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,1,C,2208.18
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,2,J,1652.21
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,3,A,972.42
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,4,Q,1118.42
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,5,L,1084.89
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,6,Y,1059.54
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,7,I,1128.58
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,8,L,1053.9
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,9,P,1005.11
+2025-11-18T14:16:21.981101,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.000000000000001,6.999999999999993,10,10,T,1210.99
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,1,S,1919.39
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,2,G,1686.89
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,3,Y,1077.07
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,4,K,1069.82
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,5,C,1229.06
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,6,I,1027.14
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,7,D,1046.89
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,8,N,1248.17
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,9,A,901.81
+2025-11-18T14:17:45.985226,Sabina,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.000000000000001,6.999999999999993,10,10,A,1026.69
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,1,F,2277.13
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,2,K,1419.87
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,3,X,1835.66
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,4,C,1039.81
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,5,E,1207.52
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,6,J,1129.3
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,7,J,900.25
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,8,O,996.52
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,9,O,1107.47
+2025-11-18T14:19:07.683867,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.000000000000001,3.0000000000000027,10,10,E,874.64
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,1,Q,1737.02
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,2,Y,2099.28
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,3,P,1342.74
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,4,J,1078.33
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,5,T,923.68
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,6,L,998.39
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,7,M,881.88
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,8,R,953.79
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,9,A,903.72
+2025-11-18T14:20:23.391474,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5000000000000001,3.0000000000000027,10,10,A,929.14
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,1,C,1785.53
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,2,W,1826.5
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,3,S,1089.94
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,4,C,1102.35
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,5,L,907.08
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,6,C,942.1
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,7,I,967.53
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,8,F,1347.69
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,9,I,903.47
+2025-11-18T14:21:34.369764,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.000000000000001,3.0000000000000027,10,10,H,1014.87
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,1,F,2023.35
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,2,M,1512.94
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,3,G,1019.99
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,4,C,982.43
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,5,A,925.98
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,6,N,911.23
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,7,C,1080.13
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,8,A,1025.71
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,9,L,1007.32
+2025-11-18T14:23:08.311568,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,10,X,1110.47
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,1,Q,1872.46
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,2,W,1651.57
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,3,X,1150.17
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,4,P,928.25
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,5,S,884.44
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,6,O,1227.78
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,7,Z,1030.39
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,8,G,974.46
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,9,W,1017.56
+2025-11-18T14:24:29.011115,Sabina,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5000000000000001,3.0000000000000027,10,10,C,929.72
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,1,I,2179.55
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,2,E,1470.66
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,3,H,931.78
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,4,J,1020.97
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,5,A,1006.92
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,6,J,1006.66
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,7,H,1062.26
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,8,Z,975.88
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,9,Y,1099.0
+2025-11-18T14:26:25.226753,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,6.999999999999993,10,10,R,1253.27
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,1,W,1758.8
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,2,V,1400.1
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,3,I,933.95
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,4,B,883.65
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,5,I,885.6
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,6,X,938.38
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,7,C,1071.04
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,8,Y,1029.6
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,9,J,1106.32
+2025-11-18T14:27:49.390767,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.000000000000001,6.999999999999993,10,10,A,843.87
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,1,W,2165.18
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,2,U,2634.53
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,3,X,978.99
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,4,D,1014.04
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,5,G,1310.56
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,6,S,1106.92
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,7,U,1073.61
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,8,T,994.22
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,9,B,1241.27
+2025-11-18T14:29:32.932116,Sabina,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,6.999999999999993,10,10,G,1358.76
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,1,F,2052.5
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,2,Q,2267.33
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,3,T,1016.03
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,4,C,965.13
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,5,L,799.02
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,6,F,1064.7
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,7,W,977.84
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,8,D,997.52
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,9,H,1000.26
+2025-11-18T14:30:40.548109,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,10,L,905.39
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,1,W,1710.93
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,2,V,1636.82
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,3,K,1068.31
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,4,Z,1119.16
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,5,L,1013.97
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,6,L,1070.51
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,7,O,1397.08
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,8,O,1050.67
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,9,N,1099.03
+2025-11-18T14:32:27.256068,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,10,M,1424.47
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,1,K,2071.7
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,2,Y,1559.82
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,3,T,939.59
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,4,E,848.31
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,5,S,969.59
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,6,M,987.45
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,7,F,838.97
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,8,A,958.82
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,9,A,805.18
+2025-11-18T14:34:14.067255,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,10,B,854.72
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,1,A,2632.85
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,2,Z,2022.6
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,3,I,1008.73
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,4,I,849.25
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,5,F,1059.5
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,6,W,1269.14
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,7,T,940.28
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,8,B,977.71
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,9,M,1088.53
+2025-11-18T14:35:29.221316,Sabina,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5000000000000001,3.0000000000000027,10,10,F,990.55
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,1,B,2038.12
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,2,A,1326.69
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,3,N,1043.53
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,4,R,1101.5
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,5,S,1091.41
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,6,S,916.08
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,7,B,1026.32
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,8,Q,1108.84
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,9,Q,1026.96
+2025-11-18T14:36:18.505098,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5000000000000001,3.0000000000000027,10,10,S,1026.52
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,1,O,1900.39
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,2,O,1400.81
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,3,E,841.09
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,4,I,1084.36
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,5,I,874.62
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,6,T,830.55
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,7,P,940.5
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,8,A,829.05
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,9,H,1210.36
+2025-11-18T14:37:17.690271,Sabina,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5000000000000001,3.0000000000000027,10,10,E,946.55
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,1,O,1885.8
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,2,W,1476.52
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,3,H,1181.33
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,4,D,989.18
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,5,W,950.31
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,6,R,901.07
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,7,I,1149.86
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,8,U,1012.35
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,9,W,1044.64
+2025-11-18T14:38:51.851195,Sabina,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.000000000000001,6.999999999999993,10,10,S,1067.86
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,1,X,2074.82
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,2,F,1397.14
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,3,V,1010.29
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,4,B,929.69
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,5,M,931.31
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,6,K,1020.41
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,7,U,981.04
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,8,T,1029.33
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,9,N,866.7
+2025-11-18T14:40:25.708721,Sabina,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5000000000000001,3.0000000000000027,10,10,D,1121.78
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,1,C,1740.34
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,2,V,1587.96
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,3,L,1121.85
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,4,D,988.75
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,5,K,988.0
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,6,K,1086.21
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,7,T,1064.3
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,8,Q,1174.88
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,9,Z,1006.16
+2025-11-18T14:42:01.150009,Sabina,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.000000000000001,6.999999999999993,10,10,O,1142.06
