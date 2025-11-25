@@ -1,0 +1,321 @@
+timestamp_utc,participant,stimulus_type,font_size,motion,input_mode,frame_motion,shaking,text_color_mode,background_mode,min_delay_sec,max_delay_sec,repetitions,trial,stimulus,reaction_time_ms
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,1,C,2048.23
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,2,E,1227.94
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,3,V,1168.15
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,4,T,1121.69
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,5,A,897.19
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,6,F,826.01
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,7,D,889.86
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,8,O,1081.57
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,9,C,1154.58
+2025-11-24T23:15:48.848679,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,10,O,1357.55
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,1,I,2297.79
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,2,Z,2021.52
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,3,M,1219.27
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,4,A,2820.8
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,5,Z,1919.43
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,6,E,1104.2
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,7,Y,1137.9
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,8,M,1115.23
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,9,Y,1030.3
+2025-11-24T23:18:49.273783,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,10,X,1048.01
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,1,L,2451.96
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,2,O,2864.11
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,3,S,1106.61
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,4,G,1162.8
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,5,D,1748.8
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,6,D,1103.56
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,7,H,1391.08
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,8,H,1412.74
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,9,Z,1536.95
+2025-11-24T23:22:38.062945,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,10,W,1292.74
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,1,M,2192.88
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,2,L,2892.95
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,3,H,1533.63
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,4,A,1077.96
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,5,X,1004.31
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,6,R,1043.22
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,7,A,1049.02
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,8,C,954.9
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,9,V,1473.34
+2025-11-24T23:24:15.089801,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,10,C,993.84
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,1,P,2344.98
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,2,L,3196.95
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,3,A,1028.93
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,4,Q,900.7
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,5,Q,858.85
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,6,P,2091.56
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,7,V,996.0
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,8,L,945.95
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,9,J,1787.46
+2025-11-24T23:25:31.083312,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,3.0,10,10,G,1028.91
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,1,B,1198.22
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,2,P,3960.42
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,3,H,1477.72
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,4,E,1771.89
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,5,W,2588.15
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,6,C,1262.05
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,7,W,1566.45
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,8,U,2106.86
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,9,D,1258.28
+2025-11-24T23:27:20.638121,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,3.0,10,10,O,1915.46
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,1,T,1821.43
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,2,Z,2480.86
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,3,I,1775.59
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,4,H,1491.09
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,5,K,1022.41
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,6,J,964.2
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,7,Y,1057.62
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,8,E,1158.54
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,9,G,859.27
+2025-11-24T23:29:06.478930,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,10,U,1131.03
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,1,F,2323.84
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,2,R,2437.49
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,3,W,1158.76
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,4,Y,1046.49
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,5,N,1284.09
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,6,R,902.94
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,7,E,1043.89
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,8,B,1075.46
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,9,N,1382.26
+2025-11-24T23:31:06.699860,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,10,I,1764.38
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,1,S,1989.32
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,2,C,1762.51
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,3,W,954.03
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,4,U,1834.42
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,5,M,1644.04
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,6,E,971.93
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,7,V,1240.14
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,8,R,883.27
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,9,M,1059.18
+2025-11-24T23:32:29.951732,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,10,Q,788.06
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,1,T,2422.76
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,2,A,2178.93
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,3,Y,1122.88
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,4,N,1281.93
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,5,M,1300.57
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,6,G,1425.17
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,7,J,1398.06
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,8,E,1174.51
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,9,M,1774.11
+2025-11-24T23:34:23.438211,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,10,Q,923.78
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,1,V,2017.22
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,2,S,1283.21
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,3,O,2194.0
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,4,V,1053.32
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,5,L,1479.27
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,6,M,989.44
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,7,X,896.54
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,8,I,1236.81
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,9,Y,1185.16
+2025-11-24T23:35:59.817282,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,10,C,1225.8
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,1,I,2653.29
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,2,N,2603.39
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,3,H,1290.84
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,4,P,1466.69
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,5,K,1157.24
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,6,G,1137.68
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,7,W,1047.6
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,8,A,1090.72
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,9,I,1862.59
+2025-11-24T23:37:37.364834,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,10,L,968.03
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,1,I,2115.08
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,2,S,2409.54
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,3,N,1082.66
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,4,R,1068.38
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,5,X,834.25
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,6,R,840.06
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,7,R,983.51
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,8,V,846.46
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,9,V,965.86
+2025-11-24T23:40:22.060972,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,7.0,10,10,F,903.57
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,1,P,2243.42
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,2,X,2036.44
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,3,L,981.8
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,4,J,1256.07
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,5,X,3470.69
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,6,P,2216.72
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,7,S,913.5
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,8,Y,1408.15
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,9,S,809.48
+2025-11-24T23:41:56.113500,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,10,T,1271.42
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,1,W,1511.47
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,2,U,1542.89
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,3,F,3379.7
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,4,I,3528.71
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,5,V,1561.04
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,6,M,5245.83
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,7,A,1848.92
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,8,R,1469.47
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,9,C,836.44
+2025-11-24T23:43:32.597301,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,2.0,3.0,10,10,Y,1012.2
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,1,J,2563.36
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,2,L,2658.01
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,3,A,1111.93
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,4,K,1418.99
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,5,P,1601.46
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,6,C,918.66
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,7,O,986.98
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,8,T,824.13
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,9,Y,1255.59
+2025-11-24T23:44:46.532347,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,10,Y,1106.96
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,1,J,2552.32
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,2,U,2830.86
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,3,K,1642.98
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,4,M,1666.95
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,5,W,1747.13
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,6,W,1068.19
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,7,M,1326.97
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,8,G,859.04
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,9,P,1032.07
+2025-11-24T23:46:02.730511,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,10,W,764.69
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,1,B,3213.23
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,2,K,1988.46
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,3,H,989.02
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,4,T,828.1
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,5,Y,1067.17
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,6,G,837.78
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,7,X,839.83
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,8,O,845.11
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,9,U,1041.76
+2025-11-24T23:47:10.014467,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,10,P,869.78
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,1,T,1647.84
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,2,H,2622.84
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,3,R,1134.11
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,4,E,1432.58
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,5,Q,1112.98
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,6,A,1054.22
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,7,O,1122.73
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,8,D,812.75
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,9,I,1406.02
+2025-11-24T23:56:08.487113,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,10,E,848.28
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,1,E,1869.96
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,2,R,2173.25
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,3,F,948.87
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,4,C,1124.98
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,5,M,4390.65
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,6,Q,2008.68
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,7,T,1174.46
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,8,J,1215.88
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,9,O,925.73
+2025-11-24T23:58:15.462039,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,10,P,767.68
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,1,O,2240.76
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,2,I,2412.82
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,3,M,1498.05
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,4,E,932.6
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,5,L,1193.94
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,6,A,836.27
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,7,D,916.57
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,8,V,1090.81
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,9,H,1283.78
+2025-11-24T23:59:31.694988,Florentin,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,7.0,10,10,A,920.47
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,1,M,1951.49
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,2,F,1338.76
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,3,A,1519.42
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,4,H,1554.19
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,5,X,883.55
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,6,S,1097.68
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,7,R,1152.55
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,8,T,3365.69
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,9,X,2470.21
+2025-11-25T00:01:06.141924,Florentin,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,10,N,1251.67
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,1,B,1658.69
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,2,W,2814.39
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,3,G,1151.27
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,4,M,1382.98
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,5,E,1570.75
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,6,Q,1766.71
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,7,G,831.28
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,8,F,814.07
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,9,Z,1024.8
+2025-11-25T00:02:25.771446,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,10,D,1009.57
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,1,L,2889.77
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,2,N,2706.53
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,3,Z,1061.75
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,4,I,959.58
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,5,W,944.0
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,6,R,769.2
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,7,J,4624.08
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,8,I,3393.27
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,9,H,1341.85
+2025-11-25T00:03:47.810883,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,10,Z,883.28
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,1,T,1508.57
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,2,L,3410.25
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,3,Q,1437.7
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,4,W,1161.97
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,5,B,2002.97
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,6,D,1190.3
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,7,S,1215.47
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,8,H,1799.68
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,9,U,1558.31
+2025-11-25T00:05:08.220107,Florentin,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,3.0,10,10,T,1427.25
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,1,A,1519.46
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,2,D,1653.89
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,3,D,988.97
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,4,Q,1042.87
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,5,Q,881.07
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,6,A,755.13
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,7,T,784.45
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,8,U,1256.4
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,9,W,864.26
+2025-11-25T00:06:36.556045,Florentin,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,10,A,812.81
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,1,W,1541.67
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,2,V,1854.66
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,3,N,1472.35
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,4,L,1265.15
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,5,I,1188.07
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,6,X,1041.53
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,7,N,1525.24
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,8,P,1396.25
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,9,L,1374.26
+2025-11-25T00:08:15.272612,Florentin,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,10,E,952.63
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,1,S,1386.82
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,2,N,2146.41
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,3,M,1264.52
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,4,V,801.18
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,5,C,953.68
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,6,D,784.78
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,7,H,2761.91
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,8,E,2278.37
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,9,K,1233.42
+2025-11-25T00:09:40.599917,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,7.0,10,10,I,1341.66
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,1,S,2512.31
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,2,B,1672.67
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,3,B,1182.14
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,4,E,1138.64
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,5,V,1135.15
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,6,B,1219.17
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,7,S,968.05
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,8,B,4132.75
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,9,L,2206.36
+2025-11-25T00:11:26.453772,Florentin,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,7.0,10,10,C,1137.59
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,1,C,1943.9
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,2,M,2635.54
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,3,U,2120.83
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,4,X,1625.4
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,5,R,2218.88
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,6,Q,792.46
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,7,B,1149.19
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,8,C,718.94
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,9,S,1028.4
+2025-11-25T00:12:52.750402,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Black,Random colors,0.5,7.0,10,10,C,800.0
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,1,W,1497.17
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,2,C,2029.68
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,3,C,757.58
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,4,E,851.31
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,5,V,866.47
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,6,L,1758.81
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,7,W,1148.5
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,8,V,964.61
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,9,T,2524.57
+2025-11-25T00:14:33.259913,Florentin,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,10,I,2520.21
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,1,W,1648.29
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,2,G,1614.56
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,3,H,1714.22
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,4,J,1266.54
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,5,Z,955.19
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,6,I,1221.94
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,7,G,1057.03
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,8,R,1037.4
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,9,C,1052.8
+2025-11-25T00:15:45.551715,Florentin,Letters,Small,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,10,B,1125.3
