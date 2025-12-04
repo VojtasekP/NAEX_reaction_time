@@ -1,0 +1,321 @@
+timestamp_utc,participant,stimulus_type,font_size,motion,input_mode,frame_motion,shaking,text_color_mode,background_mode,min_delay_sec,max_delay_sec,repetitions,trial,stimulus,reaction_time_ms
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,1,T,1764.86
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,2,B,1381.01
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,3,D,980.68
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,4,G,771.43
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,5,E,671.48
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,6,D,584.64
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,7,V,645.87
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,8,H,825.43
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,9,V,676.57
+2025-12-04T15:36:02.571864,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,10,M,815.61
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,1,X,1711.6
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,2,B,1181.49
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,3,Q,653.24
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,4,B,808.37
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,5,B,859.0
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,6,K,820.32
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,7,A,641.48
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,8,T,725.79
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,9,R,820.5
+2025-12-04T15:37:35.200932,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,10,T,738.81
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,1,U,1900.06
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,2,E,1603.74
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,3,X,639.08
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,4,Y,1000.59
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,5,P,864.88
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,6,M,2592.78
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,7,R,1301.9
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,8,T,737.98
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,9,K,777.53
+2025-12-04T15:39:37.357273,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,7.0,10,10,I,929.75
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,1,W,1074.5
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,2,G,1008.98
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,3,O,768.95
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,4,G,700.44
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,5,Y,808.42
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,6,M,749.2
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,7,A,515.41
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,8,W,589.17
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,9,W,596.2
+2025-12-04T15:40:33.320791,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Random colors,White,2.0,3.0,10,10,V,717.7
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,1,N,2321.22
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,2,D,944.4
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,3,E,560.18
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,4,H,764.32
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,5,L,818.17
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,6,P,2624.03
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,7,Q,1157.38
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,8,E,957.43
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,9,S,1462.79
+2025-12-04T15:41:48.455106,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,Random colors,2.0,7.0,10,10,L,724.13
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,1,I,2342.0
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,2,W,1617.18
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,3,G,1287.87
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,4,K,1013.87
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,5,V,777.0
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,6,K,794.01
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,7,S,682.15
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,8,J,789.86
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,9,O,904.87
+2025-12-04T16:05:56.078140,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,3.0,10,10,X,699.98
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,1,K,1589.01
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,2,F,1034.09
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,3,D,1044.05
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,4,G,747.18
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,5,Y,888.94
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,6,S,736.83
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,7,V,961.62
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,8,C,598.73
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,9,H,840.06
+2025-12-04T16:06:59.210268,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,10,M,996.05
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,1,Q,1409.42
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,2,K,1627.87
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,3,J,1107.74
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,4,D,790.55
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,5,Q,706.95
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,6,V,798.89
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,7,U,951.45
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,8,W,936.12
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,9,M,925.23
+2025-12-04T16:08:29.225538,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,White,2.0,7.0,10,10,V,761.13
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,1,R,2246.24
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,2,G,2675.71
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,3,G,1107.65
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,4,N,933.81
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,5,H,979.98
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,6,X,690.63
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,7,H,987.15
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,8,N,786.88
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,9,G,749.12
+2025-12-04T16:11:43.032092,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,7.0,10,10,L,909.91
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,1,D,2846.94
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,2,P,4059.42
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,3,D,1585.03
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,4,A,1161.68
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,5,C,930.13
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,6,P,993.36
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,7,H,902.08
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,8,G,996.7
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,9,N,1190.52
+2025-12-04T16:13:52.183833,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,3.0,10,10,J,933.67
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,1,Z,1865.88
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,2,D,1408.43
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,3,E,742.46
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,4,L,784.04
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,5,K,825.69
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,6,D,696.4
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,7,V,870.45
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,8,G,742.46
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,9,V,724.17
+2025-12-04T16:15:38.968526,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,10,T,687.91
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,1,Z,1741.84
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,2,X,1484.02
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,3,G,1548.16
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,4,F,910.27
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,5,A,572.08
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,6,H,684.33
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,7,E,600.19
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,8,M,724.2
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,9,S,608.37
+2025-12-04T16:16:33.154569,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Black,White,2.0,3.0,10,10,H,652.73
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,1,C,1511.46
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,2,F,1142.47
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,3,K,887.53
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,4,G,662.55
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,5,Y,732.89
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,6,P,770.14
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,7,T,713.33
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,8,I,904.04
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,9,L,2698.05
+2025-12-04T16:17:40.170196,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,10,W,925.26
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,1,Z,1811.93
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,2,W,1299.92
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,3,K,754.41
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,4,H,648.27
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,5,T,642.74
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,6,P,772.98
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,7,D,610.19
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,8,Q,610.47
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,9,V,830.43
+2025-12-04T16:19:05.282505,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,10,O,1025.14
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,1,L,2230.11
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,2,K,1185.81
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,3,U,736.93
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,4,E,607.41
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,5,T,695.91
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,6,M,2575.23
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,7,Y,1227.73
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,8,W,750.69
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,9,S,566.82
+2025-12-04T16:21:10.210380,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,2.0,3.0,10,10,P,751.47
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,1,I,1561.07
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,2,S,970.86
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,3,N,842.49
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,4,Q,880.88
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,5,E,540.64
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,6,W,718.49
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,7,U,746.11
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,8,W,554.59
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,9,D,654.39
+2025-12-04T16:21:57.534151,Francisco,Letters,Large,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,10,E,564.45
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,1,H,1588.9
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,2,X,1572.01
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,3,G,825.95
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,4,W,585.53
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,5,T,636.12
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,6,E,792.12
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,7,H,840.52
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,8,W,630.75
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,9,T,666.03
+2025-12-04T16:23:10.541981,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Black,White,0.5,7.0,10,10,X,759.35
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,1,Q,1439.08
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,2,I,1476.76
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,3,B,676.46
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,4,R,673.64
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,5,J,790.0
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,6,P,2816.2
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,7,D,1084.24
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,8,Y,1021.36
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,9,P,898.78
+2025-12-04T16:24:14.947289,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,7.0,10,10,U,802.0
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,1,P,2097.0
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,2,I,1206.61
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,3,G,848.78
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,4,G,1091.88
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,5,H,796.24
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,6,M,762.5
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,7,A,749.84
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,8,N,689.73
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,9,T,698.19
+2025-12-04T16:25:08.005078,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Random colors,White,0.5,3.0,10,10,Y,754.49
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,1,B,2406.45
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,2,P,1133.22
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,3,L,814.97
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,4,B,753.89
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,5,I,910.89
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,6,M,779.54
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,7,R,900.08
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,8,Z,3844.77
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,9,E,1273.72
+2025-12-04T16:26:17.470566,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Random colors,White,2.0,7.0,10,10,C,692.25
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,1,M,1829.97
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,2,R,1491.94
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,3,J,1121.54
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,4,L,1139.87
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,5,U,868.49
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,6,I,924.28
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,7,X,744.54
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,8,A,604.85
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,9,D,638.49
+2025-12-04T16:29:44.147328,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,0.5,7.0,10,10,A,728.81
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,1,J,1671.17
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,2,B,1482.07
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,3,E,680.19
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,4,U,822.59
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,5,D,576.89
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,6,Y,983.44
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,7,G,832.77
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,8,U,847.99
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,9,M,730.49
+2025-12-04T16:30:36.157324,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Black,White,2.0,3.0,10,10,F,889.6
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,1,I,1537.27
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,2,X,1167.2
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,3,M,963.09
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,4,T,697.82
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,5,P,847.88
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,6,Z,882.19
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,7,Z,1063.24
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,8,Z,608.63
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,9,J,799.07
+2025-12-04T16:31:20.689402,Francisco,Letters,Large,Static,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,10,P,1814.84
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,1,U,1900.36
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,2,O,1171.85
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,3,S,630.93
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,4,V,710.23
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,5,Y,839.06
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,6,K,903.88
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,7,Y,847.74
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,8,U,815.04
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,9,K,831.8
+2025-12-04T16:35:41.576611,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,White,0.5,7.0,10,10,H,724.7
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,1,G,1969.19
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,2,T,1324.94
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,3,U,1039.06
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,4,E,601.72
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,5,D,673.92
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,6,R,687.31
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,7,Y,883.63
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,8,U,1159.0
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,9,Y,834.24
+2025-12-04T16:36:35.388161,Francisco,Letters,Small,Moving,Text field + Enter,Static frame,False,Black,Random colors,0.5,3.0,10,10,U,864.74
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,1,Q,1729.3
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,2,Z,1936.44
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,3,W,740.08
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,4,G,2825.65
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,5,F,1090.75
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,6,P,816.32
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,7,S,732.43
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,8,S,637.41
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,9,Q,620.16
+2025-12-04T16:37:26.583502,Francisco,Letters,Large,Static,Text field + Enter,Static frame,False,Black,White,0.5,3.0,10,10,K,883.12
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,1,M,2254.15
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,2,B,1576.01
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,3,S,592.18
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,4,I,868.18
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,5,D,632.48
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,6,L,911.85
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,7,V,966.39
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,8,L,910.04
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,9,P,915.37
+2025-12-04T16:38:25.406732,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,0.5,3.0,10,10,U,858.74
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,1,L,2331.86
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,2,C,1555.61
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,3,V,736.77
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,4,S,660.07
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,5,Y,847.19
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,6,R,767.38
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,7,F,891.0
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,8,H,783.49
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,9,J,1120.27
+2025-12-04T16:39:22.981908,Francisco,Letters,Small,Static,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,10,V,739.53
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,1,A,1765.11
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,2,T,1074.66
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,3,A,589.38
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,4,D,681.33
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,5,E,667.59
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,6,V,820.39
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,7,P,910.78
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,8,H,969.37
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,9,S,663.26
+2025-12-04T16:40:34.206671,Francisco,Letters,Large,Moving,Text field + Enter,Shaking frame,True,Random colors,White,0.5,7.0,10,10,O,907.8
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,1,T,1530.84
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,2,T,2297.83
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,3,A,917.65
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,4,N,1097.64
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,5,Z,980.38
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,6,Y,846.35
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,7,I,983.65
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,8,H,997.13
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,9,A,715.35
+2025-12-04T16:42:07.041533,Francisco,Letters,Small,Moving,Text field + Enter,Shaking frame,True,Black,White,0.5,3.0,10,10,A,573.58
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,1,P,1853.74
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,2,C,1161.21
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,3,D,949.26
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,4,A,481.47
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,5,F,759.47
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,6,A,552.04
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,7,X,1041.17
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,8,L,842.18
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,9,Q,1048.95
+2025-12-04T16:42:52.322197,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,0.5,3.0,10,10,F,712.57
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,1,H,1694.63
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,2,L,1802.3
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,3,B,798.93
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,4,A,616.84
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,5,M,756.19
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,6,O,799.16
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,7,U,842.91
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,8,O,814.59
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,9,C,660.17
+2025-12-04T16:44:26.392232,Francisco,Letters,Small,Static,Text field + Enter,Static frame,False,Random colors,Random colors,2.0,7.0,10,10,S,593.87
