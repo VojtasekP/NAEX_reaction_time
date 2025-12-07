@@ -1,0 +1,161 @@
+timestamp_utc,participant,stimulus_type,font_size,motion,input_mode,frame_motion,shaking,text_color_mode,background_mode,min_delay_sec,max_delay_sec,repetitions,trial,stimulus,reaction_time_ms
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,1,I,1592.38
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,2,M,2628.36
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,3,A,788.54
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,4,X,804.94
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,5,T,845.16
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,6,J,735.58
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,7,P,1079.24
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,8,C,809.15
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,9,F,820.71
+2025-12-07T12:31:34.558968,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,10,L,806.46
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,1,L,2012.51
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,2,I,1422.77
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,3,B,1394.9
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,4,J,1184.42
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,5,P,1352.36
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,6,J,1217.14
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,7,K,943.76
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,8,L,1101.61
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,9,Y,1426.77
+2025-12-07T12:32:52.153350,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,White,1.2500000000000002,5.0,10,10,B,907.14
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,1,G,962.53
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,2,H,1199.16
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,3,O,1196.07
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,4,Y,1042.21
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,5,W,899.13
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,6,M,769.64
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,7,C,1366.42
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,8,L,1404.45
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,9,S,812.47
+2025-12-07T12:34:34.745567,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,10,T,1002.02
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,1,J,1640.65
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,2,S,1118.71
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,3,L,2852.99
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,4,Y,1811.23
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,5,I,1308.78
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,6,F,1891.8
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,7,I,1428.92
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,8,K,866.61
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,9,G,905.85
+2025-12-07T12:36:15.526384,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Black,Random colors,1.2500000000000002,5.0,10,10,Q,1131.48
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,1,R,1285.11
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,2,J,2749.03
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,3,Z,1338.5
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,4,K,1370.99
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,5,T,896.91
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,6,R,863.59
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,7,C,919.6
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,8,S,1301.89
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,9,J,1100.22
+2025-12-07T12:37:48.142226,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,10,Y,1253.26
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,1,Z,1214.58
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,2,Z,1173.83
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,3,W,1055.94
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,4,Q,827.68
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,5,K,1385.06
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,6,Q,847.61
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,7,M,976.76
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,8,N,986.03
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,9,A,898.13
+2025-12-07T12:39:05.192691,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,White,1.2500000000000002,5.0,10,10,O,1159.83
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,1,S,1387.9
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,2,Y,1144.77
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,3,J,1540.36
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,4,T,1109.05
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,5,X,1274.83
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,6,R,815.96
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,7,I,989.56
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,8,O,1119.52
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,9,H,876.16
+2025-12-07T12:40:20.540701,Petr,Letters,Medium,Static,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,10,T,1077.42
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,1,E,1991.0
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,2,R,1765.35
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,3,F,1453.51
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,4,L,1420.59
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,5,M,1169.65
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,6,Q,1138.57
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,7,C,957.25
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,8,R,996.04
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,9,I,1155.34
+2025-12-07T12:41:44.728247,Petr,Letters,Medium,Moving,Text field + Enter,Static frame,False,Random colors,Random colors,1.2500000000000002,5.0,10,10,K,1022.31
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,1,B,1482.37
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,2,T,2260.62
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,3,C,725.88
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,4,K,924.66
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,5,N,823.48
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,6,G,943.4
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,7,A,668.89
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,8,C,744.02
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,9,A,638.92
+2025-12-07T12:42:41.280026,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,10,T,1194.24
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,1,K,1741.45
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,2,A,951.95
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,3,B,1260.36
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,4,C,755.58
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,5,P,1249.61
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,6,T,1030.68
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,7,K,1018.54
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,8,W,1452.59
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,9,P,1240.54
+2025-12-07T12:43:29.566602,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,White,1.2500000000000002,5.0,10,10,P,1184.92
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,1,W,1636.54
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,2,S,2748.49
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,3,F,1041.28
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,4,R,946.11
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,5,X,987.96
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,6,V,1137.71
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,7,Z,1601.26
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,8,H,1336.17
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,9,V,990.77
+2025-12-07T12:44:30.799121,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,10,F,782.15
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,1,L,1713.43
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,2,M,3058.13
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,3,V,741.94
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,4,G,860.03
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,5,P,1085.31
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,6,A,894.93
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,7,Y,2822.1
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,8,H,942.44
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,9,D,1009.62
+2025-12-07T12:45:50.359062,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,White,1.2500000000000002,5.0,10,10,Q,983.5
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,1,K,1818.28
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,2,I,2056.68
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,3,V,1058.6
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,4,A,1146.0
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,5,C,1283.05
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,6,P,1250.95
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,7,R,980.28
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,8,C,815.93
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,9,T,901.91
+2025-12-07T12:46:44.775597,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,10,F,819.94
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,1,F,1517.93
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,2,C,1046.14
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,3,D,953.96
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,4,L,851.3
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,5,T,1162.72
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,6,B,1017.23
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,7,A,681.17
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,8,A,649.02
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,9,X,2795.41
+2025-12-07T12:47:31.609190,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Black,Random colors,1.2500000000000002,5.0,10,10,H,4262.86
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,1,K,1618.97
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,2,B,1430.29
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,3,B,881.27
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,4,A,705.27
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,5,X,1234.46
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,6,U,1044.16
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,7,Q,1004.19
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,8,L,1068.36
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,9,E,1387.65
+2025-12-07T12:48:21.306187,Petr,Letters,Medium,Static,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,10,G,786.53
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,1,O,1659.16
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,2,L,2412.06
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,3,T,993.14
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,4,F,960.32
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,5,X,939.68
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,6,K,1067.34
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,7,F,876.27
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,8,F,766.03
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,9,H,954.0
+2025-12-07T12:49:15.356470,Petr,Letters,Medium,Moving,Text field + Enter,Shaking frame,True,Random colors,Random colors,1.2500000000000002,5.0,10,10,T,1116.3
